@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi IT Guys,
+
+this just a new updated readme commit. It is just a warm up.  
